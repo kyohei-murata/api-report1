@@ -13,12 +13,12 @@
 - [ ] エンベデッドシステムスペシャリスト
 - [ ] TOEIC受験 
 
+### 「API実習」での目標
+- APIを使ったアプリケーションの作成ができる程度の能力を身に着ける
+- APIを活用してLINEborを作成する
+
 ### 臨地実務実習について
 - 実習先：LINE株式会社
 - 実習目的・テーマ：業務内容を理解し、他社と協力してデータの流れから見える課題を把握しその解決法を考察する。<br>→「若者向けの効果的な情報提供と行動変容」
 - 実習内容：神奈川県HP、神奈川県LINEコロナパーソナルサポートの改善案と神奈川憲章「ともに生きる」の広報案の作成
-<img src="https://github.com/kyohei-murata/api-report1/blob/55ec734c41e9e927a7d1b6cf5262b7f3dd90e01f/API-素材.png" width="200">
-
-### 「API実習」での目標
-- APIを使ったアプリケーションの作成ができる程度の能力を身に着ける
-- APIを活用してLINEborを作成する
+<img src="https://github.com/kyohei-murata/api-report1/blob/22f1ee5f85d31eb07e0b3f9fd1234ebc63fb426a/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%20(44).png" width="">
