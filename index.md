@@ -17,7 +17,7 @@
 - 実習先：LINE株式会社
 - 実習目的・テーマ：業務内容を理解し、他社と協力してデータの流れから見える課題を把握しその解決法を考察する。<br>→「若者向けの効果的な情報提供と行動変容」
 - 実習内容：神奈川県HP、神奈川県LINEコロナパーソナルサポートの改善案と神奈川憲章「ともに生きる」の広報案の作成
-<img src="https://github.com/kyohei-murata/api-report1/blob/55ec734c41e9e927a7d1b6cf5262b7f3dd90e01f/日本版神奈川コロナパーソナルサポート.png" width="200">
+<img src="https://github.com/kyohei-murata/api-report1/blob/55ec734c41e9e927a7d1b6cf5262b7f3dd90e01f/API-素材.png" width="200">
 
 ### 「API実習」での目標
 - APIを使ったアプリケーションの作成ができる程度の能力を身に着ける
